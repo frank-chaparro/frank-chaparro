@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:franklin25.2001@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/+51926070209)  
 
-I'm **`Frank Chaparro`**, a **`23`** y.o. **`Informatics and Systems Engineering student`** and Full Stack Developer from 🇵🇪 **`Peru`**. Passionate about **`building robust systems`**, I enjoy developing diverse projects across different domains and challenging scenarios.
+I'm **`Frank Chaparro`**, an **`Informatics and Systems Engineering student`** and Full Stack Developer from 🇵🇪 **`Peru`**. Passionate about **`building robust systems`**, I enjoy developing diverse projects across different domains and challenging scenarios.
 
 ## Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
