@@ -6,14 +6,17 @@ I'm **`Frank Chaparro`**, an **`Informatics and Systems Engineering student`** a
 
 ## Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
-<p align="center">
-  <b>Lenguajes</b><br/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff"/>
+<p align="left" style="line-height: 1.6;">
+  <span style="vertical-align: middle; font-weight: bold;">
+    Lenguajes:
+  </span>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000" style="vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff" style="vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff" style="vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff" style="vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" style="vertical-align: middle;"/>
 </p>
+
 
 <p align="center">
   <b>Frontend</b><br/>
