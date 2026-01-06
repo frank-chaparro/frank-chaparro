@@ -1,6 +1,6 @@
 # Frank Chaparro  
 
-*(Full Stack Developer | Informatics & Systems Engineer)*
+*(Informatics & Systems Engineer | Full Stack Developer)*
 
 I'm **`Frank Chaparro`**, an **`Informatics and Systems Engineering student`** and Full Stack Developer from 🇵🇪 **`Peru`**. Passionate about **`building robust systems`**, I enjoy developing diverse projects across different domains and challenging scenarios.
 
