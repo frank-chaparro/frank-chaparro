@@ -2,7 +2,7 @@
 
 *(Informatics & Systems Engineer | Full Stack Developer)*
 
-I'm **`Frank Chaparro`**, an **`Informatics and Systems Engineering student`** and Full Stack Developer from 🇵🇪 **`Peru`**. Passionate about **`building robust systems`**, I enjoy developing diverse projects across different domains and challenging scenarios.
+I'm **`Frank Chaparro`**, an **`Informatics & Systems Engineering Graduate`** and Full Stack Developer from 🇵🇪 **`Peru`**. Passionate about **`building robust systems`**, I enjoy developing diverse projects across different domains and challenging scenarios.
 
 ## Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
